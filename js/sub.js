@@ -23,7 +23,7 @@ let cityInput = "Manila";
 //   });
 // });
 
-submitBtn.addEventListener("click", (e) => {
+form.addEventListener("submit", (e) => {
   if (search.value.length == 0) {
     alert("Please type in a city name");
   } else {
