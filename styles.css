@@ -20,7 +20,7 @@
   color: #fff;
   position: relative;
   transition: 500ms;
-  opacity: 1; /* change to 0 if finnished */
+  opacity: 0; /* change to 0 if finnished */
 }
 .weather-app::before {
   content: "";
