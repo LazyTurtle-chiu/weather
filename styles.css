@@ -13,7 +13,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(./img/day/cloudy.jpg);
+/*   background-image: url(./img/day/cloudy.jpg); */
+  background-color: black;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
