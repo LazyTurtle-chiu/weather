@@ -13,14 +13,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-image: url(./img/day/cloudy.jpg); */
+  background-image: url(./img/day/cloudy.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
   position: relative;
   transition: 500ms;
-  opacity: 0; /* change to 0 if finnished */
+  opacity: 1; /* change to 0 if finnished */
 }
 .weather-app::before {
   content: "";
